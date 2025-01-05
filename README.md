@@ -1,8 +1,5 @@
 # Verbcode -  Simplify your localization journey 
 
-![Verbcode preview video in light mode](https://github.com/Verbcode/verbcode-release/blob/main/assets/verbcode_video_white.mp4)
-
-
 - DeepL integration to provide your own API Key
 - Multi-platform support (Windows, OS X, Linux)
 - Dark & light mode supported
